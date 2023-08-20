@@ -140,6 +140,14 @@ ul {
   clear: both;
 }
 
+.filterRow {
+  margin: 20px;
+}
+
+.filterRow button {
+  margin: 5px;
+}
+
 
 @keyframes App-logo-spin {
   from {
